@@ -1,4 +1,4 @@
-/book_library_backend/config/default.json
+book_library_backend/config/default.json
 # Logs
 logs
 *.log
